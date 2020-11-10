@@ -28,7 +28,7 @@
 
 // Bootstrap-y buttons
 .button, button, input[type=submit] {
-    color: white !important;
+    color: black !important;
     text-decoration: none !important;
     cursor: pointer;
     vertical-align: middle;
@@ -423,7 +423,8 @@ ul.select2-selection__rendered {
     margin: 0 -5px;
     background: $widget_black;
     border-radius: $widget_border_radius $widget_border_radius 0 0;
-    color: white;
+    color: rgb(102, 102, 102);
+    border: solid 1px rgb(202, 202, 202);
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 7px;

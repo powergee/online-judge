@@ -180,7 +180,7 @@ header {
     }
 
     a {
-        color: #FFF;
+        color: black;
     }
 
     li {
@@ -206,7 +206,7 @@ header {
             }
 
             & > span {
-                color: #eee;
+                color: rgb(102, 102, 102);
                 vertical-align: middle;
                 display: inline;
                 margin-top: 11px;
@@ -276,22 +276,22 @@ nav {
                 display: inline-block;
                 text-decoration: none;
                 vertical-align: middle;
-                color: #FFF;
+                color: rgb(102, 102, 102);
                 padding: 13px 7px;
                 height: 18px;
 
                 &:link {
-                    color: #FFF;
+                    color: rgb(102, 102, 102);
                 }
 
                 &:hover {
-                    color: #FFF;
+                    color: rgb(102, 102, 102);
                     background: rgba(255, 255, 255, 0.25);
                     margin: 0;
                 }
 
                 &.active {
-                    color: #FFF;
+                    color: rgb(102, 102, 102);
                     background: $highlight_blue;
                 }
 
