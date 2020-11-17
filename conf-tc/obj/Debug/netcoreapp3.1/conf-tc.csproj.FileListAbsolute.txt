@@ -1,0 +1,13 @@
+/home/hyeon/Repositories/online-judge/conf-tc/bin/Debug/netcoreapp3.1/conf-tc
+/home/hyeon/Repositories/online-judge/conf-tc/bin/Debug/netcoreapp3.1/conf-tc.deps.json
+/home/hyeon/Repositories/online-judge/conf-tc/bin/Debug/netcoreapp3.1/conf-tc.runtimeconfig.json
+/home/hyeon/Repositories/online-judge/conf-tc/bin/Debug/netcoreapp3.1/conf-tc.runtimeconfig.dev.json
+/home/hyeon/Repositories/online-judge/conf-tc/bin/Debug/netcoreapp3.1/conf-tc.dll
+/home/hyeon/Repositories/online-judge/conf-tc/bin/Debug/netcoreapp3.1/conf-tc.pdb
+/home/hyeon/Repositories/online-judge/conf-tc/obj/Debug/netcoreapp3.1/conf-tc.csprojAssemblyReference.cache
+/home/hyeon/Repositories/online-judge/conf-tc/obj/Debug/netcoreapp3.1/conf-tc.AssemblyInfoInputs.cache
+/home/hyeon/Repositories/online-judge/conf-tc/obj/Debug/netcoreapp3.1/conf-tc.AssemblyInfo.cs
+/home/hyeon/Repositories/online-judge/conf-tc/obj/Debug/netcoreapp3.1/conf-tc.csproj.CoreCompileInputs.cache
+/home/hyeon/Repositories/online-judge/conf-tc/obj/Debug/netcoreapp3.1/conf-tc.dll
+/home/hyeon/Repositories/online-judge/conf-tc/obj/Debug/netcoreapp3.1/conf-tc.pdb
+/home/hyeon/Repositories/online-judge/conf-tc/obj/Debug/netcoreapp3.1/conf-tc.genruntimeconfig.cache
