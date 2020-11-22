@@ -26,7 +26,7 @@ namespace conf_tc
             string parentPath = Path.GetDirectoryName(tcDir);
             string parentName = Path.GetFileName(parentPath);
             Console.WriteLine($"Found a problem directory : {parentName}");
-            parentName = parentName.Replace('_', '-');
+            parentName = parentName.Replace("_", "");
             ID = parentName;
 
             string[] files = Directory.GetFiles(tcDir);
