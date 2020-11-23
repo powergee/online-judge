@@ -1,0 +1,16 @@
+/home/hyeon/Repositories/online-judge/images-mover/obj/Debug/net5.0/images-mover.csprojAssemblyReference.cache
+/home/hyeon/Repositories/online-judge/images-mover/obj/Debug/net5.0/images-mover.GeneratedMSBuildEditorConfig.editorconfig
+/home/hyeon/Repositories/online-judge/images-mover/obj/Debug/net5.0/images-mover.AssemblyInfoInputs.cache
+/home/hyeon/Repositories/online-judge/images-mover/obj/Debug/net5.0/images-mover.AssemblyInfo.cs
+/home/hyeon/Repositories/online-judge/images-mover/obj/Debug/net5.0/images-mover.csproj.CoreCompileInputs.cache
+/home/hyeon/Repositories/online-judge/images-mover/bin/Debug/net5.0/images-mover
+/home/hyeon/Repositories/online-judge/images-mover/bin/Debug/net5.0/images-mover.deps.json
+/home/hyeon/Repositories/online-judge/images-mover/bin/Debug/net5.0/images-mover.runtimeconfig.json
+/home/hyeon/Repositories/online-judge/images-mover/bin/Debug/net5.0/images-mover.runtimeconfig.dev.json
+/home/hyeon/Repositories/online-judge/images-mover/bin/Debug/net5.0/images-mover.dll
+/home/hyeon/Repositories/online-judge/images-mover/bin/Debug/net5.0/ref/images-mover.dll
+/home/hyeon/Repositories/online-judge/images-mover/bin/Debug/net5.0/images-mover.pdb
+/home/hyeon/Repositories/online-judge/images-mover/obj/Debug/net5.0/images-mover.dll
+/home/hyeon/Repositories/online-judge/images-mover/obj/Debug/net5.0/ref/images-mover.dll
+/home/hyeon/Repositories/online-judge/images-mover/obj/Debug/net5.0/images-mover.pdb
+/home/hyeon/Repositories/online-judge/images-mover/obj/Debug/net5.0/images-mover.genruntimeconfig.cache
