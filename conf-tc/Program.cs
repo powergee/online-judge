@@ -82,7 +82,7 @@ namespace conf_tc
                 {
                     string inputPath = Path.Combine(dir, $"{index}.in");
                     string outputPath = Path.Combine(dir, $"{index}.out");
-                    yWriter.WriteLine($" - {{in: {index}.in, out: {index}.out, points: 0}}");
+                    yWriter.WriteLine($" - {{in: {index}.in, out: {index}.out, points: {(index == Cases.Count - 1 ? 100 : 0)}}}");
                     ++index;
                     using (TextWriter iWriter = File.CreateText(inputPath))
                     using (TextWriter oWriter = File.CreateText(outputPath))
