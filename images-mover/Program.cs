@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace images_mover
 {
@@ -9,7 +10,8 @@ namespace images_mover
         // args[0]: path to the uospc repo
         static void Main(string[] args)
         {
-            string[] files = Directory.GetFiles(args[0], "*.png", SearchOption.AllDirectories);
+            var files = Directory.GetFiles(args[0], "*.*", SearchOption.AllDirectories)
+                                .Where(s => s.EndsWith(".png") || s.EndsWith(".jpg"));
             Directory.CreateDirectory("/tmp/static/");
             foreach (string file in files)
             {

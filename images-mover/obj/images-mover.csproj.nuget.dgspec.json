@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hyeon/Repositories/online-judge/images-mover/images-mover.csproj": {}
+    "/home/hyeon/Repository/online-judge/images-mover/images-mover.csproj": {}
   },
   "projects": {
-    "/home/hyeon/Repositories/online-judge/images-mover/images-mover.csproj": {
+    "/home/hyeon/Repository/online-judge/images-mover/images-mover.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hyeon/Repositories/online-judge/images-mover/images-mover.csproj",
+        "projectUniqueName": "/home/hyeon/Repository/online-judge/images-mover/images-mover.csproj",
         "projectName": "images-mover",
-        "projectPath": "/home/hyeon/Repositories/online-judge/images-mover/images-mover.csproj",
+        "projectPath": "/home/hyeon/Repository/online-judge/images-mover/images-mover.csproj",
         "packagesPath": "/home/hyeon/.nuget/packages/",
-        "outputPath": "/home/hyeon/Repositories/online-judge/images-mover/obj/",
+        "outputPath": "/home/hyeon/Repository/online-judge/images-mover/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hyeon/.nuget/NuGet/NuGet.Config"
