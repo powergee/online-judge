@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pwd-gen/1.0.0": {
+        "runtime": {
+          "pwd-gen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pwd-gen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
